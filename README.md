@@ -1,0 +1,2 @@
+# Image-modification-specifications
+用于将图片进行像素转换以及打标签和转换格式等操作
